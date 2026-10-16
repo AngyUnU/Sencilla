@@ -1,0 +1,7 @@
+{
+  "name": "doker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
